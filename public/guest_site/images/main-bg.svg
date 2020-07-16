@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 542" width="416" height="542">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 1L414 1L414 544L0 544L0 1Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M365.08 556.75C529.02 468.66 628.43 189.37 447.5 135C266.56 81.03 232.24 237.03 150.5 237C68.17 237.03 43.67 122.27 -65 122C-173.98 122.27 -372.79 249.55 -329.62 432.98C-286.15 616.21 200.86 645.43 365.08 556.75Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e6add8 } 
+		.shp1 { opacity: 0.502;fill: #cd92be } 
+		.shp2 { fill: #d89fca } 
+	</style>
+	<path id="Mask" class="shp0" d="M0 1L414 1L414 544L0 544L0 1Z" />
+	<g id="Mask 2" clip-path="url(#cp1)">
+	</g>
+	<path id="Bg" class="shp1" d="M365.08 556.75C529.02 468.66 628.43 189.37 447.5 135C266.56 81.03 232.24 237.03 150.5 237C68.17 237.03 43.67 122.27 -65 122C-173.98 122.27 -372.79 249.55 -329.62 432.98C-286.15 616.21 200.86 645.43 365.08 556.75Z" />
+	<g id="Bg 2" clip-path="url(#cp2)">
+	</g>
+	<path id="Bg" class="shp2" d="M45.08 4.86C58.7 54.39 107.71 75.69 127.6 60.16C147.19 43.99 136.66 0.25 117.2 -23.48C97.19 -46.81 31.07 -45.28 45.08 4.86Z" />
+	<path id="Bg" class="shp2" d="M338.08 -37.14C351.7 12.39 400.71 33.69 420.6 18.16C440.19 1.99 429.66 -41.75 410.2 -65.48C390.19 -88.81 324.07 -87.28 338.08 -37.14Z" />
+</svg>
